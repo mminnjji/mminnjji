@@ -34,8 +34,6 @@
 
 ### 42seoul 관련 내용
 
-‣ 
-
 [4224 | Notion](https://equatorial-cloud-357.notion.site/4224-0f47aa41e6954a2f84f76f3a732808d7)
 
 ### 철학자문제
