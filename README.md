@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Minji An's GitHub
 
 ---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladlqkr0113)](https://solved.ac/rladlqkr0113/)
 
 ## 📌 Repositories Overview
 
