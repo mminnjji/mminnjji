@@ -29,6 +29,6 @@
 ---
 
 ## 🌟 Contact Me
-- Email: [purehero1233@gmail.com](mailto:purehero1233@gmail.com)  
+- Email: [9336pure@naver.com](mailto:9336pure@naver.com)  
 - LinkedIn: [My-Profile](https://www.linkedin.com/in/minji-an-152629339/  
 
