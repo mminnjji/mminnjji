@@ -1,16 +1,5 @@
 # 👩🏻‍💻 Minji An's GitHub
 
----
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladlqkr0113)](https://solved.ac/rladlqkr0113/)
-
-### 📖 **stair**
-- **협업/팀 프로젝트**:  
-  - **Node.js Express / React / MySQL** 기반  
-  - **OpenAI 파인튜닝 모델**을 활용한 사용자 텍스트 기반 자서전 생성 플랫폼 개발  
-- 팀원들과의 협업을 통해 백엔드-프론트엔드 전체 아키텍처를 설계하고 구현했습니다.
-
----
-
 ## 🛠️ Tech Stack
 - **Languages**:  
   ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
@@ -29,6 +18,5 @@
 ---
 
 ## 🌟 Contact Me
-- Email: [9336pure@naver.com](mailto:9336pure@naver.com)  
-- LinkedIn: [My-Profile](https://www.linkedin.com/in/minji-an-152629339/  
+- Email: [purehero1233@gmail.com](purehero1233@gmail.co)  
 
