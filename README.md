@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Minji An's GitHub
+## Minji An's GitHub
 
 ## 🛠️ Tech Stack
 - **Languages**:  
